@@ -15,8 +15,9 @@
 
 # Please check my main projects:
 
-[![Magit](https://i.imgur.com/H0o4dSg.jpg)](https://github.com/AmitGabbay/Magit)
 [![BusOnTime](https://i.imgur.com/IRymGE8.jpg)](https://github.com/AmitGabbay/BusOnTime-API)
+[![Magit](https://i.imgur.com/H0o4dSg.jpg)](https://github.com/AmitGabbay/Magit)
+
 
 
 <!--
