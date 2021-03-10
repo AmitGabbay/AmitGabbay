@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # :construction: Page in progress :construction:
 
 
@@ -14,6 +12,11 @@
 
 #### Cloud Providers I'm using:
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+
+# Please check my main projects:
+
+[![Magit](https://i.imgur.com/H0o4dSg.jpg)](https://github.com/AmitGabbay/Magit)
+[![BusOnTime](https://i.imgur.com/IRymGE8.jpg)](https://github.com/AmitGabbay/BusOnTime-API)
 
 
 <!--
