@@ -1,6 +1,6 @@
 #### :construction: Page in progress :construction:
 
-# About me
+# Amit Gabbay
 I'm a computer science student (on last semester), and eager to start my Software career. I also have 4 years of technical cyber, IT and networking experience in several enterprises before I started to program.
 
 **Contact me:** 
@@ -31,6 +31,7 @@ I'm a computer science student (on last semester), and eager to start my Softwar
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 **Cloud Providers I'm using:**
+
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
 
