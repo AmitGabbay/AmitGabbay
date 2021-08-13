@@ -1,7 +1,8 @@
 #### :construction: Page in progress :construction:
 
 # Amit Gabbay
-### I'm a computer science student (on last semester), and eager to start my Software career. I also have 4 years of technical cyber, IT and networking experience in several enterprises before I started to code.
+### Devops Engineer & Computer science graduate
+### I also have 4 years of technical cyber, IT and networking experience in several enterprises before I started to code.
 
 **Contact me:** 
 [      ![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:amit.gabbay1@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/amit-gabbay) 
